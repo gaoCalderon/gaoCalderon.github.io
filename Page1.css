@@ -37,6 +37,17 @@ h3 {
 	margin-left: 50px;
 }
 
+.borderSpacing2 {
+	margin-right: 70px;
+	margin-left: 70px;
+}
+
+.borderSpacing3 {
+	padding-left: 18px;
+	padding-right: 18px;
+
+}
+
 .topBottomSpacing {
 	margin-top: 50px;
 	margin-bottom: 50px;
